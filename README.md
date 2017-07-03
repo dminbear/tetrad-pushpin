@@ -21,5 +21,6 @@ Backend and frontend has been decoupled, and they are developed completely separ
 
 2. Front-end
     * React.js: single page application library
+    * Fabric.js: Javascript image editing library 
     * Webpack: module bundler for creating static assets
     * Jest: testing framework
